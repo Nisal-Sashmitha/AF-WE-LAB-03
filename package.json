@@ -1,0 +1,20 @@
+{
+  "name": "af-we-lab-03",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nisal-Sashmitha/AF-WE-LAB-03.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nisal-Sashmitha/AF-WE-LAB-03/issues"
+  },
+  "homepage": "https://github.com/Nisal-Sashmitha/AF-WE-LAB-03#readme"
+}
